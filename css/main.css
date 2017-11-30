@@ -149,7 +149,15 @@ section {
 .p {
 	flex-direction: column;
 }
-
+footer {
+	width: 100vw;
+	height: 300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	font-size: xx-large;
+}
 
 
 
